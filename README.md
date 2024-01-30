@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Arlen Oliveira</h1>
-<h3 align="center">Apaixonado por análise</h3>
+<h3 align="center">Apaixonado por análise de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, PySpark, Processos de ETL.**
 
