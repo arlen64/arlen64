@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **arlenoliveira64@gmail.com**
 
-- 📄 Fui fundada por Arlen Oliveira e aqui estão minhas habilidades [linkedin.com/in/arlen-oliveira-98309825b](linkedin.com/in/arlen-oliveira-98309825b)
+- 📄 Fui fundada por Arlen Oliveira e aqui estão minhas habilidades **www.linkedin.com/in/arlen-oliveira-98309825b**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
