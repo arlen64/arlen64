@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arlen64/arlen64/main/Banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Oi 👋, Eu sou o Arlen Oliveira</h1>
 <h3 align="center">Engenheiro de Dados | Python • SQL • Airflow • PySpark • AWS</h3>
 
